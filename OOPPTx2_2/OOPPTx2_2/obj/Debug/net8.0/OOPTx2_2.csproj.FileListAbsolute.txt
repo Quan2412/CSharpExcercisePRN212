@@ -1,0 +1,14 @@
+D:\Console\OOPPTx2_2\OOPPTx2_2\bin\Debug\net8.0\OOPTx2_2.exe
+D:\Console\OOPPTx2_2\OOPPTx2_2\bin\Debug\net8.0\OOPTx2_2.deps.json
+D:\Console\OOPPTx2_2\OOPPTx2_2\bin\Debug\net8.0\OOPTx2_2.runtimeconfig.json
+D:\Console\OOPPTx2_2\OOPPTx2_2\bin\Debug\net8.0\OOPTx2_2.dll
+D:\Console\OOPPTx2_2\OOPPTx2_2\bin\Debug\net8.0\OOPTx2_2.pdb
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\OOPTx2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\OOPTx2_2.AssemblyInfoInputs.cache
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\OOPTx2_2.AssemblyInfo.cs
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\OOPTx2_2.csproj.CoreCompileInputs.cache
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\OOPTx2_2.dll
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\refint\OOPTx2_2.dll
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\OOPTx2_2.pdb
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\OOPTx2_2.genruntimeconfig.cache
+D:\Console\OOPPTx2_2\OOPPTx2_2\obj\Debug\net8.0\ref\OOPTx2_2.dll
